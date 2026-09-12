@@ -37,3 +37,7 @@ label {
   font-style: italic;
   color: #efeeed;
 }
+
+img {
+  border: 10px dotted #fbbc7f;
+}
